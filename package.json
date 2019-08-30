@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config-scss-maorey",
+  "version": "1.0.0",
+  "description": "My stylelint config with scss",
+  "keywords": [
+    "stylelint-config",
+    "stylelint",
+    "config"
+  ],
+  "author": "Maorey",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maorey/stylelint-config-scss-maorey.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "stylelint": "*",
+    "stylelint-scss": "*",
+    "stylelint-order": "*",
+    "stylelint-config-standard": "*",
+    "stylelint-config-rational-order": "*"
+  }
+}
