@@ -1,3 +1,9 @@
+## 1.1.0
+
+---
+
+- Modify scss patterns to `_*camelCase`
+
 ## 1.0.2
 
 ---
