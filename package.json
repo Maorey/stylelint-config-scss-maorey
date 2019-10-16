@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-scss-maorey",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "My stylelint config with scss",
   "keywords": [
     "stylelint-config",
@@ -18,12 +18,12 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint-scss": "^3.10.0",
-    "stylelint-order": "^3.1.0",
-    "stylelint-config-standard": "^18.3.0",
+    "stylelint-scss": "^3.11.1",
+    "stylelint-order": "^3.1.1",
+    "stylelint-config-standard": "^19.0.0",
     "stylelint-config-rational-order": "^0.1.2"
   },
   "peerDependencies": {
-    "stylelint": "*"
+    "stylelint": "^11.1.1"
   }
 }
